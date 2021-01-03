@@ -27,11 +27,11 @@ function preload(){
  logoImg=loadImage("Logo2.png") ;
  stethoscopeImg=loadImage("stethoscope.png");
  plusImg=loadImage("plus.png");
- injectionImg=loadImage("injection.png");
+ injectionImg=loadImage("Injection.png");
  syrupImg=loadImage("syrup.png");
  hosImg=loadImage("Hos.png");
  qmImg=loadImage("Qm.png");
- virusImg=loadImage("virus.png");
+ virusImg=loadImage("Virus.png");
  yogaImg=loadImage("yoga.png");
  bg=loadImage("unnamed.png")
 }
